@@ -2,4 +2,5 @@
 
 ## Labs:
 - lab 1: Bayesian Models
-- lab 2: Logistic Regression
+- lab 2: Density Estimation
+- 
