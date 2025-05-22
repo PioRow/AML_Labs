@@ -1,13 +1,15 @@
-# Laboratoriy tasks form Advanced Machine Learning course
+# taskoratoriy tasks form Advanced Machine Learning course
 
-## Labs:
-- lab 1: Bayesian Models
-- lab 2: Density Estimation
-- lab 3: Logistic Regression
-- lab 4: Regularized Logistic Regression
-- lab 5: Model Evaluation
-- lab 6: CART
-- lab 7: AdaBoost
-- lab 8: Multilabel Classification
-- lab 9: Nonlinear Regression
-- lab 10: ...
+## tasks:
+- task 1: Bayesian Models
+- task 2: Density Estimation
+- task 3: Logistic Regression
+- task 4: Regularized Logistic Regression
+- task 5: Model Evaluation
+- task 6: CART
+- task 7: AdaBoost
+- task 8: Multitaskel Classification
+- task 9: Nonlinear Regression
+- task 10: Multivariate Regression
+- task 11: Feature Selection
+- task 12: ...
